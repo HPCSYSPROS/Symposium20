@@ -7,7 +7,7 @@
 
 ### [Modern Cyberinfrastructure: The Ladder to the Shoulders Of Giants](ESnet-shoulders-giants-v1.pdf) 
 **Presented by:** Eli Dart, [Energy Sciences Network (ESnet)](http://es.net/)
-### [SLURM REST API](SchedMD-Rest-API.pdf) 
+### [Slurm REST API](SchedMD-Rest-API.pdf) 
 **Presented by:** Nathan Rini, [SchedMD](https://www.schedmd.com/)
 ### [Deploying Summit](ORNL-Deploying%20Summit.pdf)
 **Presented by:** Don Maxwell, [Oak Ridge National Laboratory](https://www.ornl.gov/)
